@@ -45,4 +45,5 @@ Chnaging the opening URLs are pretty simple.
 By default, if a user hasn't set a URL, the default URL will be set to "managebac.com" (random website)
 If a user wishes to change the URLs that open when they click the Warning Symbol, they must do so in the Extension Options page. This is done by going to chrome://extensions > Press the "Details" button on the Tab Switcher Extension > Scroll down and click "Extension Options"
 
-<img src="https://github.com/mathieufitzgerald/tab-switcher/63452179/35e7b3b6-f346-484c-8af1-85ab027b4b94" alt="drawing" width="700"/>
+<img src="https://github.com/mathieufitzgerald/tab-switcher/assets/63452179/1e47985b-9e4d-4cd9-96a7-45476a1f2128" alt="drawing" width="700"/>
+
