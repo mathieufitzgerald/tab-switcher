@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Tab Switcher 0.1ms",
-  "version": "1.0",
+  "version": "1.0-beta2",
   "permissions": ["tabs", "windows", "storage"],
   "action": {
     "default_icon": {
@@ -13,5 +13,14 @@
   "background": {
     "service_worker": "background.js"
   },
-  "options_page": "options.html"
+  "options_page": "options.html",
+  "commands": {
+    "switch_tabs": {
+      "suggested_key": {
+        "default": "Alt+Shift+T",
+        "mac": "MacCtrl+T"
+      },
+      "description": "Switch tabs"
+    }
+  }
 }
