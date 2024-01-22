@@ -1,2 +1,2 @@
 # tab-switcher
-pls do not use this code. it does not work. unless you are a maniac and an idiot :)
+A Chrome Extension that will allow you to change tabs faster than you run.
