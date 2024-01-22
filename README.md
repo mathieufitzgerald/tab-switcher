@@ -16,11 +16,11 @@ A Chrome Extension that will allow you to change tabs faster than you run.
 
 <img src="https://github.com/mathieufitzgerald/tab-switcher/assets/63452179/d801c31c-546c-48ad-b3fb-aebc43ecda99" alt="drawing" width="700"/>
 
-- NOTE: Make sure you are on your personal profile before doing this step. Unfortunately, due to how strict My school is with their profiel management, which is a very good thing by the way, personal profiel usage is needed. Head over to Google Chrome, and type in "'chrome://extensions'" in your search bar, and press Enter.
+- NOTE: Make sure you are on your personal profile before doing this step. Unfortunately, due to how strict My school is with their profile management, which is a very good thing by the way, personal profile usage is needed. Head over to Google Chrome, and type in "'chrome://extensions'" in your search bar, and press Enter.
 
 <img src="https://github.com/mathieufitzgerald/tab-switcher/assets/63452179/98c6c726-f4a3-4c8d-b06b-f69240a70e38" alt="drawing" width="700"/>
 
-- Find where you extracted the main folder with all the files in. Take that folder and drag and drop it into chrome. This will install the extension to your chrome application.
+- Find where you extracted the main folder with all the files in. Take that folder and drag and drop it into chrome. This will install the extension to your chrome extenstion(s) page.
 
 <img src="https://github.com/mathieufitzgerald/tab-switcher/assets/63452179/21dafcd0-c5db-4261-97fa-ae41b7f9d970" alt="drawing" width="700"/>
 
@@ -33,10 +33,13 @@ A Chrome Extension that will allow you to change tabs faster than you run.
 Using the extension is pretty easy. Please Pin the extension to your chrome pinned extensions before using.
 <img src="https://github.com/mathieufitzgerald/tab-switcher/assets/63452179/861b0a18-a764-4aa5-9b21-2f38f075fe09" alt="drawing" width="700"/>
 
-All you have to do to use the Chrome extension is click the little Red Warning symbol!
+All you have to do to use the Chrome extension is click the little Red Warning symbol / Or use the keybinds to switch tabs!
 What Happens:
 - ALL chrome tabs and windows close
 - A new window opens with the specified URLs that you gave the extension in the options page.
+- Current Keybinds:
+-   windows: **Alt+Shift+T**
+-   mac: **MacCtrl+T**
 
 ## Changing URLs
 
