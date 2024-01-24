@@ -38,10 +38,10 @@ All you have to do to use the Chrome extension is click the little Red Warning s
 By default, when you switch tabs, the extension will automatically close the previous tabs you were on. If you do not want that happening and simply just want to switch tabs, you can do so by enabling the "Minimize previous windows instead of closing" option in the chrome extension options page.
 
 What Happens:
-- ALL chrome tabs and windows close
+- ALL chrome tabs and windows close (unless specified to keep open)
 - A new window opens with the specified URLs that you gave the extension in the options page.
 
-Keybinds can be changed by going to this url: chrome://extensions/shortcuts, and changing the "Switch tabs" shortcut. Default keybinds are as follows:
+Keybinds can be changed by going to this url: **chrome://extensions/shortcuts**, and changing the "Switch tabs" shortcut. Default keybinds are as follows:
 -   windows: **Alt+Shift+T**
 -   mac: **MacCtrl+T**
 
